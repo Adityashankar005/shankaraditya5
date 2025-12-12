@@ -1,6 +1,0 @@
-streamlit
-pdfplumber
-nltk
-matplotlib
-pillow
-numpy
